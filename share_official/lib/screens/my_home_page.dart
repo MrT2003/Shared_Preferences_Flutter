@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:share_official/screens/splash_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-class MyHomePage extends StatelessWidget {
-  const MyHomePage({super.key});
+class MyHomePage_2 extends StatelessWidget {
+  const MyHomePage_2({super.key});
 
   @override
   Widget build(BuildContext context) {

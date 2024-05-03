@@ -18,7 +18,7 @@ class LoginPage extends StatelessWidget {
             await pref.setBool('isLoggedIn', true);
             Navigator.of(context).pushReplacement(
               MaterialPageRoute(
-                builder: (context) => MyHomePage(),
+                builder: (context) => MyHomePage_2(),
               ),
             );
           },
